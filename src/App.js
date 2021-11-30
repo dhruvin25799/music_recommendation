@@ -14,6 +14,12 @@ const musicDB = {
       artist: "Doja Cat",
       rating: "4/5",
       link: "https://www.youtube.com/watch?v=dI3xkL7qUAc"
+    },
+    {
+      name: "Bad Habits",
+      artist: "Ed Sheeran",
+      rating: "5/5",
+      link: "https://www.youtube.com/watch?v=orJSJGHjBLI"
     }
   ],
   Rap: [
@@ -28,6 +34,12 @@ const musicDB = {
       artist: "Neffex",
       rating: "3/5",
       link: "https://www.youtube.com/watch?v=_MTbjHKtobY"
+    },
+    {
+      name: "Last One Standing",
+      artist: "Polo G, Mozzy, & Eminem",
+      rating: "5/5",
+      link: "https://www.youtube.com/watch?v=gXH7_XaGuPc"
     }
   ],
   Electronic: [
@@ -42,6 +54,12 @@ const musicDB = {
       artist: "Avicii",
       rating: "5/5",
       link: "https://www.youtube.com/watch?v=_ovdm2yX4MA"
+    },
+    {
+      name: "Squid Game & Do It To It",
+      artist: "Zedd",
+      rating: "3/5",
+      link: "https://www.youtube.com/watch?v=DxzdRri8o6o"
     }
   ],
   Kpop: [
@@ -56,6 +74,12 @@ const musicDB = {
       artist: "Blackpink",
       rating: "5/5",
       link: "https://www.youtube.com/watch?v=vRXZj0DzXIA"
+    },
+    {
+      name: "The Feels",
+      artist: "TWICE",
+      rating: "4.5/5",
+      link: "https://www.youtube.com/watch?v=f5_wn8mexmM"
     }
   ]
 };
